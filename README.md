@@ -1,2 +1,2 @@
 
-![Cover Image](Clinical Data Analysis/CDAc.jpg)
+![Cover Image](CDAc.jpg)
